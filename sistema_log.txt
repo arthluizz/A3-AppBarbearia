@@ -1,0 +1,119 @@
+03/06/2025 15:39:46 - Programa iniciado.
+03/06/2025 15:39:48 - Driver MySQL carregado com sucesso.
+03/06/2025 15:39:49 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+03/06/2025 15:40:02 - Driver MySQL carregado com sucesso.
+03/06/2025 15:40:02 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+03/06/2025 15:40:04 - Agendamento realizado: clienteId=7, servico=Barba, dataHora=2025-06-03 16:39:00
+03/06/2025 15:40:04 - Driver MySQL carregado com sucesso.
+03/06/2025 15:40:04 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+03/06/2025 15:40:10 - Listagem de agendamentos exibida (GUI).
+03/06/2025 15:40:11 - Driver MySQL carregado com sucesso.
+03/06/2025 15:40:11 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+03/06/2025 15:40:15 - Nenhum agendamento selecionado para cancelamento.
+03/06/2025 15:40:16 - Driver MySQL carregado com sucesso.
+03/06/2025 15:40:16 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+03/06/2025 15:40:18 - Driver MySQL carregado com sucesso.
+03/06/2025 15:40:18 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+03/06/2025 15:40:20 - Agendamento cancelado com sucesso: id=10
+03/06/2025 15:40:21 - Programa encerrado pelo usuário.
+03/06/2025 19:04:32 - Programa iniciado.
+03/06/2025 19:04:37 - Driver MySQL carregado com sucesso.
+03/06/2025 19:04:37 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+03/06/2025 19:04:39 - Listagem de agendamentos exibida (GUI).
+03/06/2025 19:04:48 - Driver MySQL carregado com sucesso.
+03/06/2025 19:04:48 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+03/06/2025 19:04:50 - Listagem de clientes exibida (GUI), filtro="".
+03/06/2025 19:21:59 - Programa iniciado.
+03/06/2025 19:22:01 - Driver MySQL carregado com sucesso.
+03/06/2025 19:22:01 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+03/06/2025 19:22:01 - Listagem de clientes exibida (GUI) com caixa de pesquisa.
+03/06/2025 19:22:10 - Programa encerrado pelo usuário.
+03/06/2025 20:31:24 - Programa iniciado.
+03/06/2025 20:31:27 - Driver MySQL carregado com sucesso.
+03/06/2025 20:31:28 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+03/06/2025 20:31:28 - Listagem de clientes exibida (GUI) com caixa de pesquisa.
+03/06/2025 20:31:35 - Driver MySQL carregado com sucesso.
+03/06/2025 20:31:35 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+03/06/2025 20:31:38 - Listagem de agendamentos exibida (GUI).
+03/06/2025 20:31:39 - Driver MySQL carregado com sucesso.
+03/06/2025 20:31:39 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+03/06/2025 20:32:17 - Driver MySQL carregado com sucesso.
+03/06/2025 20:32:17 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+03/06/2025 20:32:18 - Agendamento realizado: clienteId=7, servico=Barba, dataHora=2025-06-03 22:31:00
+03/06/2025 20:32:23 - Driver MySQL carregado com sucesso.
+03/06/2025 20:32:23 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+03/06/2025 20:32:26 - Listagem de agendamentos exibida (GUI).
+03/06/2025 20:32:28 - Driver MySQL carregado com sucesso.
+03/06/2025 20:32:28 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+03/06/2025 20:32:31 - Driver MySQL carregado com sucesso.
+03/06/2025 20:32:31 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+03/06/2025 20:32:33 - Agendamento cancelado com sucesso: id=11
+03/06/2025 20:37:04 - Programa iniciado.
+03/06/2025 20:37:29 - Cadastro de cliente cancelado pelo usuário.
+03/06/2025 20:43:04 - Programa iniciado.
+03/06/2025 20:45:55 - Programa encerrado pelo usuário.
+03/06/2025 20:48:02 - Programa iniciado.
+03/06/2025 20:48:07 - Cadastro de cliente cancelado pelo usuário.
+03/06/2025 20:48:10 - Driver MySQL carregado com sucesso.
+03/06/2025 20:48:10 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+03/06/2025 20:48:13 - Agendamento cancelado na seleção de cliente.
+03/06/2025 20:48:15 - Driver MySQL carregado com sucesso.
+03/06/2025 20:48:15 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+03/06/2025 20:48:18 - Listagem de agendamentos exibida (GUI).
+03/06/2025 20:48:37 - Driver MySQL carregado com sucesso.
+03/06/2025 20:48:37 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+03/06/2025 20:48:38 - Cliente cadastrado: nome=vitao, telefone=(12) 34567-8908, cpf=000.000.000-00
+03/06/2025 20:48:39 - Driver MySQL carregado com sucesso.
+03/06/2025 20:48:39 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+03/06/2025 20:48:58 - Tentativa de agendar para data/hora passada: clienteId=8, dataHora=2025-06-03 09:48:00
+06/06/2025 10:47:14 - Programa iniciado.
+06/06/2025 10:47:17 - Driver MySQL carregado com sucesso.
+06/06/2025 10:47:17 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+06/06/2025 10:47:19 - Listagem de agendamentos exibida (GUI).
+06/06/2025 10:47:20 - Driver MySQL carregado com sucesso.
+06/06/2025 10:47:20 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+06/06/2025 10:47:21 - Listagem de clientes exibida (GUI) com caixa de pesquisa.
+06/06/2025 10:47:27 - Driver MySQL carregado com sucesso.
+06/06/2025 10:47:27 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+06/06/2025 10:47:30 - Driver MySQL carregado com sucesso.
+06/06/2025 10:47:30 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+06/06/2025 10:47:33 - Cliente excluído: id=8
+08/06/2025 15:26:59 - Programa iniciado.
+08/06/2025 17:51:48 - Programa iniciado.
+08/06/2025 17:51:50 - Programa iniciado.
+08/06/2025 17:51:52 - Programa encerrado pelo usuário.
+08/06/2025 17:52:01 - Driver MySQL carregado com sucesso.
+08/06/2025 17:52:01 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+08/06/2025 17:52:01 - Listagem de clientes exibida (GUI) com caixa de pesquisa.
+08/06/2025 17:52:13 - Cadastro de cliente cancelado pelo usuário.
+08/06/2025 17:52:16 - Driver MySQL carregado com sucesso.
+08/06/2025 17:52:16 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+08/06/2025 17:52:16 - Listagem de clientes exibida (GUI) com caixa de pesquisa.
+08/06/2025 17:52:24 - Driver MySQL carregado com sucesso.
+08/06/2025 17:52:24 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+08/06/2025 17:52:27 - Cancelamento de cliente abortado pelo usuário (não selecionado).
+08/06/2025 17:52:29 - Driver MySQL carregado com sucesso.
+08/06/2025 17:52:29 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+08/06/2025 17:52:45 - Driver MySQL carregado com sucesso.
+08/06/2025 17:52:45 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+08/06/2025 17:52:47 - Agendamento realizado: clienteId=7, servico=Corte de cabelo, dataHora=2025-06-10 17:52:00
+08/06/2025 17:52:48 - Driver MySQL carregado com sucesso.
+08/06/2025 17:52:48 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+08/06/2025 17:52:52 - Listagem de agendamentos exibida (GUI).
+08/06/2025 17:52:53 - Driver MySQL carregado com sucesso.
+08/06/2025 17:52:53 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+08/06/2025 17:52:57 - Driver MySQL carregado com sucesso.
+08/06/2025 17:52:57 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+08/06/2025 17:52:58 - Agendamento cancelado com sucesso: id=12
+12/06/2025 14:48:41 - Programa iniciado.
+12/06/2025 14:48:45 - Cadastro de cliente cancelado pelo usuário.
+15/06/2025 16:33:55 - Programa iniciado.
+15/06/2025 16:34:01 - Driver MySQL carregado com sucesso.
+15/06/2025 16:34:01 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+15/06/2025 16:34:01 - Listagem de clientes exibida (GUI) com caixa de pesquisa.
+15/06/2025 16:34:16 - Driver MySQL carregado com sucesso.
+15/06/2025 16:34:16 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+15/06/2025 16:34:17 - Cliente cadastrado: nome=arthur, telefone=(00) 00000-0000, cpf=000.000.000-00
+15/06/2025 16:34:19 - Driver MySQL carregado com sucesso.
+15/06/2025 16:34:19 - Conexão estabelecida com o banco: jdbc:mysql://localhost:3306/salaodb?useSSL=false&serverTimezone=UTC
+15/06/2025 16:34:19 - Listagem de clientes exibida (GUI) com caixa de pesquisa.
