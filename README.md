@@ -72,7 +72,7 @@ Execução via IDE:
 1. Abra a pasta do projeto.
 2. Adicione lib/mysql-connector-java-8.0.x.jar como biblioteca externa.
 3. Marque a pasta src/ como diretório de código-fonte.
-4. Execute a classe SistemaGUI.
+4. Execute a classe Main.
 
 Funcionalidades
 Cadastro de Cliente:
