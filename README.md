@@ -2,7 +2,7 @@ Sistema de Agendamento para Barbearia
 
 Descrição do Programa
 
-Se trata de um projeto de avaliação de faculade, não será comercializado.
+Se trata de um projeto de avaliação de faculdade, não será comercializado.
 
 Este projeto é um sistema de agendamento para uma barbearia, desenvolvido em Java com interface gráfica Swing. O sistema permite:
 - Cadastrar clientes (com validação e máscara de CPF e telefone).
